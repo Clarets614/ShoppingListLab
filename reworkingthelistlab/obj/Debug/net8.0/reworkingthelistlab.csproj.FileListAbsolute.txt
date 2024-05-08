@@ -1,0 +1,15 @@
+C:\Users\cstock\source\repos\reworkingthelistlab\reworkingthelistlab\obj\Debug\net8.0\reworkingthelistlab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cstock\source\repos\reworkingthelistlab\reworkingthelistlab\obj\Debug\net8.0\reworkingthelistlab.AssemblyInfoInputs.cache
+C:\Users\cstock\source\repos\reworkingthelistlab\reworkingthelistlab\obj\Debug\net8.0\reworkingthelistlab.AssemblyInfo.cs
+C:\Users\cstock\source\repos\reworkingthelistlab\reworkingthelistlab\obj\Debug\net8.0\reworkingthelistlab.csproj.CoreCompileInputs.cache
+C:\Users\cstock\source\repos\reworkingthelistlab\reworkingthelistlab\obj\Debug\net8.0\reworkingthelistlab.sourcelink.json
+C:\Users\cstock\source\repos\reworkingthelistlab\reworkingthelistlab\bin\Debug\net8.0\reworkingthelistlab.exe
+C:\Users\cstock\source\repos\reworkingthelistlab\reworkingthelistlab\bin\Debug\net8.0\reworkingthelistlab.deps.json
+C:\Users\cstock\source\repos\reworkingthelistlab\reworkingthelistlab\bin\Debug\net8.0\reworkingthelistlab.runtimeconfig.json
+C:\Users\cstock\source\repos\reworkingthelistlab\reworkingthelistlab\bin\Debug\net8.0\reworkingthelistlab.dll
+C:\Users\cstock\source\repos\reworkingthelistlab\reworkingthelistlab\bin\Debug\net8.0\reworkingthelistlab.pdb
+C:\Users\cstock\source\repos\reworkingthelistlab\reworkingthelistlab\obj\Debug\net8.0\reworkingthelistlab.dll
+C:\Users\cstock\source\repos\reworkingthelistlab\reworkingthelistlab\obj\Debug\net8.0\refint\reworkingthelistlab.dll
+C:\Users\cstock\source\repos\reworkingthelistlab\reworkingthelistlab\obj\Debug\net8.0\reworkingthelistlab.pdb
+C:\Users\cstock\source\repos\reworkingthelistlab\reworkingthelistlab\obj\Debug\net8.0\reworkingthelistlab.genruntimeconfig.cache
+C:\Users\cstock\source\repos\reworkingthelistlab\reworkingthelistlab\obj\Debug\net8.0\ref\reworkingthelistlab.dll
